@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701088543916",
+    "firebase_url": "https://real-time-db-and-flutter.firebaseio.com",
+    "project_id": "real-time-db-and-flutter",
+    "storage_bucket": "real-time-db-and-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701088543916:android:0193cf9f3e5c06676b1b09",
+        "android_client_info": {
+          "package_name": "com.joaquinarias.realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701088543916-risfetrmhfpo1g8rn0vme5n8bjk92qvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNScrgpQOWawzSmVrF6e5so_BonK2uPCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701088543916-risfetrmhfpo1g8rn0vme5n8bjk92qvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
